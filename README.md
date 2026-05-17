@@ -78,13 +78,13 @@ Participated in RoboDrift competition at Tecnoesis 2026 as part of Team Cypher /
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhigyankotoky-gif&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhigyankotoky-gif&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyankotoky-gif&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyankotoky-gif&layout=compact" />
-
-<img src="https://streak-stats.demolab.com?user=abhigyankotoky-gif" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhigyankotoky-gif&theme=tokyonight" />
 </p>
 
 ---
